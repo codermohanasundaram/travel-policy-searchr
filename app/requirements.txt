@@ -5,3 +5,5 @@ sentence-transformers
 httpx
 uvicorn[standard]
 pytest
+pypdf
+python-docx>=1.0
